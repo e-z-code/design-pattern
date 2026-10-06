@@ -1,0 +1,14 @@
+# Java Compiled Files
+*.class
+
+# Build Directories
+bin/
+out/
+target/
+build/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
